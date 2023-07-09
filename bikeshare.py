@@ -1,6 +1,6 @@
 import pandas as pd
 
-# The available data
+# City data files
 CITY_DATA = {
     'chicago': 'chicago.csv',
     'new york': 'new_york_city.csv',
@@ -67,7 +67,8 @@ def get_day():
             return day
         else:
             print('Invalid input! Please enter a valid day.')
-
+            
+# This method loads a CSV file based on the chosen city
 def load_data(city, month, day):
     """
     Loads the data from a CSV file based on the chosen city and applies filters based on the chosen month and day.
