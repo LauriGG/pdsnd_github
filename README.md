@@ -9,3 +9,9 @@ In this project, you will make use of Python to explore data related to bike sha
 1- Clone the repusing this sommand `git clone https://github.com/LauriGG/data_scince_with_python.git` this will clone the project on your machine.
 2- Open the project in your fav editor (e.g. VS code)
 3- In the terminal just run this command `python bikeshare.py`
+
+## Used technologies and tools
+
+- Python 3, NumPy, and pandas installed using Anaconda
+- A text edito e.g. VS Code, Atom
+- A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
